@@ -1,21 +1,22 @@
 {
-    "name": "navy-and-ivory",
-    "displayName": "Navy and Ivory",
-    "description": "A smooth color palette for VSCode",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.32.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Navy and Ivory",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Navy and Ivory-color-theme.json"
-            }
-        ]
-    }
+  "name": "navy-and-ivory",
+  "displayName": "Navy and Ivory",
+  "description": "A smooth color palette for VSCode",
+  "version": "0.0.1",
+  "publisher": "evan-siegel",
+  "engines": {
+    "vscode": "^1.32.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Navy and Ivory",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Navy and Ivory-color-theme.json"
+      }
+    ]
+  }
 }
