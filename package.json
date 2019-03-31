@@ -2,7 +2,7 @@
   "name": "navy-and-ivory",
   "displayName": "Navy and Ivory",
   "description": "A smooth color palette for VSCode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "evan-siegel",
   "engines": {
     "vscode": "^1.32.0"
